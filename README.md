@@ -16,7 +16,8 @@ TruCheck is an integrated Python and HTML-based website designed to extract text
   - Sentence Transformers: for refining the query provided by the user
   - NLTK: for checking the query with an inbuilt word dictionary and for using NLP to refine query 
   - Regular Expression: to remove unwanted characters (Ln,Col,period etc)
-  - Requests: for using API to fetch news articles 
+  - Requests: for using API to fetch news articles
+  - PyQt5: Presents GUI Interface to make our tool user friendly
 ## Features
 - Screen capture with taskbar removal
 - Text extraction from the captured screen

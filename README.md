@@ -28,5 +28,5 @@ TruCheck is an integrated Python and HTML-based website designed to extract text
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/TruthCheck.git
+   git clone https://github.com/username/TruCheck.git
 
